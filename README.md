@@ -1,2 +1,4 @@
 # frist-program-
-this is  my frist git repositry
+this is  my frist git repository.
+author -- SARTHAK SINGHAL 
+
